@@ -1,0 +1,2 @@
+class InvalidFoundationYearError(Exception):
+    pass

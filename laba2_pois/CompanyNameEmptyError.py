@@ -1,0 +1,2 @@
+class CompanyNameEmptyError(Exception):
+    pass

@@ -1,0 +1,2 @@
+class PostmanError(Exception):
+    pass

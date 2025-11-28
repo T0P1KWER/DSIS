@@ -1,0 +1,2 @@
+class CarNotOK(Exception):
+    pass

@@ -1,0 +1,2 @@
+class TooBigMileageError(Exception):
+    pass

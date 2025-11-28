@@ -1,0 +1,2 @@
+class NegativeEmployeesError(Exception):
+    pass

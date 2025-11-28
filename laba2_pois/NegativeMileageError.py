@@ -1,0 +1,2 @@
+class NegativeMileageError(Exception):
+    pass

@@ -1,0 +1,2 @@
+class TooManyShelvesError(Exception):
+    pass

@@ -1,0 +1,2 @@
+class InvalidTaxIdError(Exception):
+    pass
