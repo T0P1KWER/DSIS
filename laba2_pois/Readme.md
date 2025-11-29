@@ -11,7 +11,7 @@
 
 **Accounting** 2 0 → Room
 
-**Bicycle** 5 5 → Transport
+**Bicycle** 5 6 → Transport
 
 **Bilding** 5 0 
 
@@ -41,13 +41,13 @@
 
 **Customer_corner** 3 1 
 
-**Delivery_schedule** 3 
+**Delivery_schedule** 3 2 
 
 **Director** 4 8 → Postal_Worker
 
 **Envelope** 3 1 
 
-**Form** 3 1
+**Form** 3 2
 
 **Furniture** 1 1
 
