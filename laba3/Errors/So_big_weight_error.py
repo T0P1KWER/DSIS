@@ -1,0 +1,2 @@
+class SoBigWeight(Exception):
+    pass
